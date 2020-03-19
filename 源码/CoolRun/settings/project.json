@@ -1,0 +1,37 @@
+{
+  "collision-matrix": [
+    [
+      true,
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      true
+    ]
+  ],
+  "design-resolution-height": 640,
+  "design-resolution-width": 960,
+  "excluded-modules": [],
+  "fit-height": true,
+  "fit-width": false,
+  "group-list": [
+    "default",
+    "HeroDeath",
+    "Floor"
+  ],
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "start-scene": "e51e86d6-7f7e-490a-a96c-9ebe9600ce8d",
+  "use-customize-simulator": false,
+  "use-project-simulator-setting": false
+}

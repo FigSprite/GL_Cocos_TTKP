@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "HeroEye02_left",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 5.25,
+  "sample": 4,
+  "speed": 1.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9b214acb-6caa-4151-be8d-5b0ce523a9fc"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "cad12c72-569a-4664-b932-89a2d23cab20"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "831c2e9f-9951-4b0c-b21c-01a1fa49e452"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "9b214acb-6caa-4151-be8d-5b0ce523a9fc"
+            }
+          },
+          {
+            "frame": 5,
+            "value": {
+              "__uuid__": "9b214acb-6caa-4151-be8d-5b0ce523a9fc"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

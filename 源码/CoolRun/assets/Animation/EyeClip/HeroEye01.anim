@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "RoomHeroEye",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 5,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "04454e85-a6bb-431f-9e13-193cf52eb388"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "cc6555cc-3fe7-4f0a-8c28-f12def7c5675"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "b28ef770-6a2c-4457-be64-31e37a3303a6"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "04454e85-a6bb-431f-9e13-193cf52eb388"
+            }
+          },
+          {
+            "frame": 4.875,
+            "value": {
+              "__uuid__": "04454e85-a6bb-431f-9e13-193cf52eb388"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
